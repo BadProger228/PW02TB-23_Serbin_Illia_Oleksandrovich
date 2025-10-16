@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Waste Fuel Calculator</string>
+    <string name="calc_name">Калькулятор валових викидів</string>
+    <string name="coal">Вугілля (т)</string>
+    <string name="oil_fuel">Мазут (т)</string>
+    <string name="natural_gas">Природний газ (тис. м³)</string>
+    <string name="button">Розрахувати</string>
+</resources>
